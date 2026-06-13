@@ -15,7 +15,7 @@
 
 <div id="password-screen">
     <div class="login-box">
-        <h1>VIDEO VAULT</h1>
+        <h1>HWRLD VAULT</h1>
         <p>ENTER ACCESS CODE</p>
 
         <input type="password" id="passwordInput">
